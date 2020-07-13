@@ -69,7 +69,7 @@ Simultaneous Localization and Mapping, also known as SLAM, is the computational 
 - [A Solution to the Simultaneous Localization and Map Building (SLAM) Problem](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=938381&tag=1)
 - [Simulataneous Localization and Mapping with the Extended Kalman Filter](http://www.iri.upc.edu/people/jsola/JoanSola/objectes/curs_SLAM/SLAM2D/SLAM%20course.pdf)
 - [Robotic Mapping: A Survey](http://robots.stanford.edu/papers/thrun.mapping-tr.pdf)
-
+- [Keyframe-based monocular SLAM: design, survey, and future directions](https://arxiv.org/abs/1607.00470)
 
 ### Researchers
 
